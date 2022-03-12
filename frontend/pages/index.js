@@ -258,7 +258,7 @@ await checkIfPresaleStarted();
       if (!presaleStarted) {
         return (
           <div>
-            <div className={styles.description}>Presale hasn't started yet!</div>
+            <div className={styles.description}>Presale hasnt started yet!</div>
           </div>
         )
       }
